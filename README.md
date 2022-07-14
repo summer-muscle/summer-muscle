@@ -3,7 +3,7 @@
 # さまっする（SUMMER x MUSCLE）
 ![](sama.png)
 
-https://wattah1002.github.io/kdg-hacks-2022-summer/ (1人プレイのみ可能)
+https://summer-muscle.github.io/summer-muscle/ (1人プレイのみ可能)
 
 ~~https://delightful-cliff-0bb102800.1.azurestaticapps.net/~~ (7/14よりAzure停止)
 
